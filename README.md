@@ -60,7 +60,7 @@ This list catalogues the building blocks: serving runtimes, routing layers, eval
 ## Standards & protocols
 
 - **[OpenAI Chat Completions API](https://platform.openai.com/docs/api-reference/chat)** — De-facto standard interface. Used by vLLM, TGI, llama.cpp, Ollama, and most routers.
-- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)** — Open standard for connecting AI tools to data sources. Anthropic-originated but vendor-neutral.
+- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)** — Open standard for connecting AI tools to data sources. originated by Anthropic, vendor-portable.
 - **[GGUF format](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md)** — Quantised-model file format used by llama.cpp ecosystem.
 
 ## Open weights, open licenses
