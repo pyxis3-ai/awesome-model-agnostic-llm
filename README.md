@@ -49,6 +49,7 @@ Route requests across models / runtimes / providers. The Funnel layer in a model
 
 - **[LiteLLM](https://github.com/BerriAI/litellm)** — Unified API across 100+ LLM providers. The reference for client-side routing.
 - **[OpenRouter](https://openrouter.ai/)** — Hosted multi-provider router with OpenAI-compatible API.
+- **[Quotaflow](https://quotaflow.ai/)** — OpenAI-compatible relay for governed quota pools, temporary access, overflow credits, and resource efficiency.
 - **[Portkey](https://github.com/Portkey-AI/gateway)** — Gateway with fallback, retry, load-balancing, semantic caching.
 - **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** — Edge-deployed router with caching + rate-limiting.
 - **[Helicone](https://github.com/Helicone/helicone)** — Observability gateway, OpenAI-compatible proxy.
