@@ -136,3 +136,7 @@ Measure and control LLM spend.
 ## Contributing
 
 PRs welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md). Add new entries in alphabetical order within each section, with a one-line description.
+
+## Maintenance
+
+Supporting documentation lives in `docs/`, example inputs live in `examples/`, and lightweight validation notes live in `tests/smoke/`.
