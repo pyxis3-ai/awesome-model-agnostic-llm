@@ -48,6 +48,7 @@ The runtime that loads weights and serves inference. Model-agnostic means it wor
 Route requests across models, runtimes, or providers. The Funnel layer in a model-agnostic stack.
 
 - **[LiteLLM](https://github.com/BerriAI/litellm)**: unified API across 100+ LLM providers. The reference for client-side routing.
+- **[A3M Router](https://github.com/Das-rebel/a3m-router)**: parallel multi-LLM execution with confidence scoring, 47+ providers, 62% cost savings. 19.5 KB, zero ML. [npm](https://www.npmjs.com/package/adaptive-memory-multi-model-router)
 - **[OpenRouter](https://openrouter.ai/)**: hosted multi-provider router with OpenAI-compatible API.
 - **[Portkey](https://github.com/Portkey-AI/gateway)**: gateway with fallback, retry, load-balancing, and semantic caching.
 - **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)**: edge-deployed router with caching and rate-limiting.
